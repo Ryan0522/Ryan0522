@@ -28,7 +28,10 @@ Research interests: *Nuclear Physics, Condensed Matter Physics, Machine Learning
 ## Neural Network Projects  
 
 - [**MNIST PyTorch**](https://github.com/Ryan0522/MNIST_PyTorch)  
-  *Baseline NN implementation without sklearn.*  
+  *Baseline NN implementation without sklearn.*
+
+- [**Fashion MNIST PyTorch**](https://github.com/Ryan0522/FashionMNIST_CNN)
+  *CNN implementation.*
 
 - *(More coming soon: CNNs, RNNs, Transformers, BNNs, Physical ML...)*  
 
